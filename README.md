@@ -4,7 +4,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------
 > * This web application was developed to try hands on jquery and use of APIs.
 
-> * Enter any valid username on github and the app will fetch the users primary info.
+> * Enter any valid username on github and the app will fetch the user's primary info.
 
 > * To have a look on the app visit this link : [Github-Buddy By Hiresh](http://codepen.io/hiresh/full/dGELLw) 
 
